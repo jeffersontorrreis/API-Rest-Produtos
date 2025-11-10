@@ -85,30 +85,7 @@ bashcurl -X PUT http://localhost:8080/products/1 \
   }'
 Deletar Produto
 bashcurl -X DELETE http://localhost:8080/products/1
-📁 Estrutura do Projeto
-src/
-├── main/
-│   ├── java/com/shopify/virtual/
-│   │   ├── controllers/         # Controladores REST
-│   │   │   ├── ProductController.java
-│   │   │   └── handlers/        # Tratamento de exceções
-│   │   ├── dto/                 # Data Transfer Objects
-│   │   │   ├── ProductDTO.java
-│   │   │   ├── CustomError.java
-│   │   │   ├── ValidationError.java
-│   │   │   └── FieldMessage.java
-│   │   ├── entities/            # Entidades JPA
-│   │   │   └── Product.java
-│   │   ├── repositories/        # Repositórios JPA
-│   │   │   └── ProductRepository.java
-│   │   ├── services/            # Camada de serviços
-│   │   │   ├── ProductService.java
-│   │   │   └── exceptions/
-│   │   └── VirtualApplication.java
-│   └── resources/
-│       ├── application.properties
-│       └── import.sql           # Dados iniciais
-└── test/                        # Testes unitários
+
 ✔️ Validações
 O ProductDTO possui as seguintes validações:
 CampoValidaçõesnameObrigatório, mínimo 3 caracteres, máximo 80 caracteresdescriptionOpcionalpriceObrigatório, deve ser positivostockObrigatório, não pode ser negativocategoryObrigatório, não pode ser vazio
