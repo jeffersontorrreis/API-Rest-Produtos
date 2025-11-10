@@ -14,7 +14,7 @@ API RESTful para gerenciamento de produtos de loja virtual com Spring Boot 3.5.7
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/virtual-shop.git
+git clone https://github.com/jeffersontorrreis/API-Rest-Produtos.git
 
 # Entre na pasta
 cd virtual-shop
