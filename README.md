@@ -1,4 +1,4 @@
-# Virtual Shop API
+# Virtual Shop API (ambiente de desenvolvimento)
 
 API REST como exercicio para gerenciamento de produtos de loja virtual fictícia com Spring Boot 3.5.7 e Java 21.
 
