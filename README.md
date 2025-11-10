@@ -1,5 +1,5 @@
 Virtual Shop API
-API RESTful para gerenciamento de produtos de loja virtual com Spring Boot 3.5.7 e Java 21.
+API REST para gerenciamento de produtos de loja virtual com Spring Boot 3.5.7 e Java 21.
 🚀 Tecnologias
 
 Java 21
