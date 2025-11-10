@@ -1,21 +1,5 @@
 Virtual Shop API
 API REST para gerenciamento de produtos de uma loja virtual, desenvolvida com Spring Boot 3.5.7 e Java 21.
-📋 Índice
-
-Sobre o Projeto
-Tecnologias Utilizadas
-Funcionalidades
-Pré-requisitos
-Instalação
-Executando o Projeto
-Endpoints da API
-Exemplos de Uso
-Estrutura do Projeto
-Validações
-Tratamento de Erros
-Banco de Dados
-Contribuindo
-Licença
 
 🎯 Sobre o Projeto
 A Virtual Shop API é uma aplicação backend que fornece endpoints para operações CRUD de produtos. O projeto foi desenvolvido como exercicio seguindo as melhores práticas de arquitetura em camadas, utilizando DTOs para transferência de dados e validações robustas.
